@@ -1,4 +1,3 @@
-# Netflix-Analyasis-Dashboard
 # 🎬 Netflix Data Analysis | Power BI
 
 Interactive Power BI dashboard analyzing Netflix content and providing insights into Movies, TV Shows, genres, and content added over the years.
